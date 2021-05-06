@@ -238,3 +238,348 @@
   238  history
   239  clear
   240  history >> historygitfile.txt
+    1  cls
+    2  clear
+    3  hostnamectl set-hostname Linux RajeshServer
+    4  ls
+    5  cls
+    6  clear
+    7  hostnamectl set-hostname  RajeshServer
+    8  ls
+    9  dir
+   10  pwd
+   11  ls -ltr
+   12  man ls
+   13  hostory
+   14  histry
+   15  clear
+   16  cd exit
+   17  cd /
+   18  clear
+   19  cd personal/textfiles/
+   20  ls
+   21  cat firsttextfile.txt
+   22  cat > firsttextfile.txt
+   23  car
+   24  cat
+   25  cat firsttextfile.txt 
+   26  pwd
+   27  useradd Rajesh
+   28  finger
+   29  dir
+   30  ping google.com
+   31  echo
+   32  head
+   33  ifconfig
+   34  telnet google.com:22
+   35  who
+   36  iptables
+   37  uname
+   38  netsata- tulpn
+   39  netstat- tulpn
+   40  netstat -tulpn
+   41  clear
+   42  man kill
+   43  history
+   44  dd
+   45  date
+   46  datenow() c
+   47  cd /
+   48  cd ..
+   49  cd personal/textfiles/
+   50  cd..
+   51  cd ..
+   52  clear
+   53  exit
+   54  clear
+   55  sudo su
+   56  quit
+   57  logoff
+   58  logoout
+   59  logout
+   60  exit
+   61  w
+   62  ls
+   63  pwd
+   64  mkdir test.txt
+   65  ls
+   66  ls -ltr
+   67  chmod g-wx
+   68  ls -ltr
+   69  chmod g-wx ext.txt
+   70  chmod g-wx text.txt
+   71  chmod g-wx text.txt/
+   72  clear
+   73  history
+   74  clear
+   75  ls
+   76  ls -R
+   77  ls -a
+   78  ls -al
+   79  cd
+   80  ls
+   81  cd /
+   82  cd ..
+   83  mkdir personal
+   84  cd ..
+   85  ./
+   86  ./personal/
+   87  cd peronal/
+   88  cd personal/
+   89  clear
+   90  mkdir textfiles
+   91  cd textfiles
+   92  ./
+   93  ls
+   94  cd ..
+   95  ls -ltr
+   96  chmod g-x textfiles/
+   97  ls -ltr
+   98  cd /
+   99  cd personal/textfiles/
+  100  cd /
+  101  clear
+  102  c
+  103  cd /personal/textfiles/
+  104  ls -l
+  105  clear
+  106  pwd
+  107  ls
+  108  ls -ltr
+  109  cd /personal/textfiles/
+  110  ls
+  111  touchfile firsttextfile.txt 
+  112  touch firsttextfile.txt 
+  113  man ls -h
+  114  clear
+  115  pwd
+  116  ls
+  117  cat > Secondtextfile.txt
+  118  ls
+  119  :q! 
+  120  ls
+  121  vi secondtextfile.txt
+  122  cat secondtextfile.txt
+  123  cat firsttextfile.txt 
+  124  clear
+  125  man ls
+  126  ls
+  127  cat firsttextfile.txt
+  128  rm secondtextfile.txt
+  129  ls
+  130  ls
+  131  rm secondtextfile.txt
+  132  ls
+  133  pwd
+  134  clear
+  135  cat > anusha.txt
+  136  cat anusha
+  137  cat anusha.txt
+  138  vi anusha.txt
+  139  head anusha.txt
+  140  tail anusha.txt
+  141  clear
+  142  man rm file
+  143  ls
+  144  mkdir bunchfiles
+  145  cd bunchfiles/
+  146  ls
+  147  pwd
+  148  touch file{1..100}
+  149  ls
+  150  ls | sort
+  151  clear
+  152  history
+  153  clear
+  154  yum install httpd
+  155  yum seach mysql
+  156  yum search dotnet
+  157  yum search java
+  158  yum search pythhon
+  159  yum search python
+  160  ym repolist
+  161  yum repolist
+  162  yum install java
+  163  ll
+  164  rm file{1..100}
+  165  clear
+  166  yum install docker -y
+  167  ps -ef |grep -i "java"
+  168  systemcl start java
+  169  systemctl start java
+  170  systemctl start docker
+  171  ps -ef |grep -i "docker"
+  172  clear
+  173  cd /
+  174  pwd
+  175  clear
+  176  systemctl status docker
+  177  systemctl status java
+  178  systemctl stop docker
+  179  systemctl status docker
+  180  clear
+  181  history >>history.txt
+  182  mv history.txt /home/ec2-user/
+  183  pwd
+  184  cd personal/
+  185  gitproject
+  186  mkdir gitproject
+  187  ls
+  188  pwd
+  189  clear
+  190  ls
+  191  cd gitproject/
+  192  git init
+  193  git init
+  194  clear
+  195  pwd
+  196  git INIT
+  197  $git INIT
+  198  clear
+  199  $ git init
+  200  git init
+  201  clear
+  202  clear
+  203  clear
+  204  systemctl stop docker
+  205  systemctl status docker
+  206  ps -ef | grep -i "docker"
+  207  ps -ef | grep -i "java"
+  208  kill jlkjlfjsdlf sdlkfj asdl flsdkfj
+  209  clear
+  210  killall docker
+  211  init6
+  212  init 6
+  213  whoami
+  214  iptabel
+  215  iptable
+  216  man ip
+  217  ip -show -d
+  218  man ip
+  219  ip address
+  220  clear
+  221  ip details
+  222  ip address
+  223  hosname
+  224  hostname
+  225  clear
+  226  git
+  227  pwed
+  228  pwd
+  229  ls
+  230  cd /
+  231  ls
+  232  cd personal/
+  233  ls
+  234  cd gitproject/
+  235  clera
+  236  clear
+  237  git init
+  238  history
+  239  clear
+  240  history >> historygitfile.txt
+  241  ls
+  242  hit push
+  243  git push
+  244  git remote add origin https://github.com/NRajeshDBA/Gitlab.git
+  245  git add historygitfile.txt
+  246  git status
+  247  git commit -m "This is first git folder"
+  248  git config --global user.name "[NRajeshDBA]"
+  249  git config --glabal user.email "[rajeshdba@live.com]"
+  250  git config --global user.email "[rajeshdba@live.com]"
+  251  git config --global -- list
+  252  git config --global --list
+  253  git branch
+  254  git branch -m main
+  255  git branch
+  256  git push
+  257  git push --set-upstream origin main
+  258  git status
+  259  rm newfile1.txt
+  260  git status
+  261  git commit
+  262  git push
+  263  git --list
+  264  ls
+  265  ll
+  266  rm nwefile{2.10}.txt -r -y
+  267  rm nwefile{2.10}.txt
+  268  rm newfile{2.10}.txt
+  269  rm newfile{2..10}.txt
+  270  ll
+  271  rm newfile{2..10}.txt -y
+  272  rm newfile{2..10}.txt -f
+  273  ll
+  274  clear
+  275  man ip
+  276  ip -a
+  277  iptable
+  278  ip -rc -a
+  279  ip -rc -a{ll}
+  280  ip -rc -a[ll]
+  281  clear
+  282  ls
+  283  clear
+  284  gity status
+  285  it sutatus
+  286  git status
+  287  git log
+  288  date
+  289  git log --l
+  290  git log --help
+  291  q
+  292  git log --oneline
+  293  git log --stat
+  294  git log --patch
+  295  git log --graph
+  296  git log --graph --oneline
+  297  ls -la
+  298  cd .git
+  299  ls
+  300  ll
+  301  ls
+  302  cd ..
+  303  ls
+  304  ls -l
+  305  ls -la
+  306  mv .git /tmp
+  307  git satus
+  308  git status
+  309  cat > test.txt
+  310  git add test.txt 
+  311  mv /tmp/.git .
+  312  git add test.txt 
+  313  clear
+  314  git branch
+  315  git branch north
+  316  git branch south
+  317  git branch east
+  318  git branch -list
+  319  git branch --list
+  320  cd south
+  321  git checkout south
+  322  git status
+  323  git brach
+  324  git brach --list
+  325  git branch --list
+  326  touch filesouth
+  327  git branch
+  328  git status
+  329  git add filesouth
+  330  git status
+  331  git push
+  332  git push --set-upstream origin south
+  333  git commit
+  334  git commit -m  "South update"
+  335  git push
+  336  git remote -v
+  337  cd 
+  338  git clone  https://github.com/NRajeshDBA/Gitlab.git
+  339  ls
+  340  cd gitlab
+  341  cd Gitlab/
+  342  ls
+  343  ll
+  344  vi historygitfile.txt 
+  345  history >> historygitfile.txt 
